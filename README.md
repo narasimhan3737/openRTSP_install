@@ -1,2 +1,2 @@
 # openRTSP_install
-Installs the latest version of the openRTSP.
+Installs the latest version of the openRTSP in linux.
