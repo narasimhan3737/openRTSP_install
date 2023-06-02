@@ -6,6 +6,8 @@ Installs the latest version of the openRTSP in linux.
 ```bash
 git clone https://github.com/narasimhan3737/openRTSP_install.git
 
+cd openRTSP_install/
+
 chmod +x install_openRTSP.sh
 
 ./install_openRTSP.sh
