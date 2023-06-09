@@ -1,3 +1,4 @@
+sudo apt-get install openssl
 sudo apt-get install libssl-dev
 cd /usr/src
 sudo wget http://www.live555.com/liveMedia/public/live555-latest.tar.gz
